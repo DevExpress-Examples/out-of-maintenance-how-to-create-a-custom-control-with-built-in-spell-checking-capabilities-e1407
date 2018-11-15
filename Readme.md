@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CustomMemoEditControl/Form1.cs) (VB: [Form1.vb](./VB/CustomMemoEditControl/Form1.vb))
+* [MyMemoEdit.cs](./CS/CustomMemoEditControl/MyMemoEdit.cs) (VB: [MyMemoEdit.vb](./VB/CustomMemoEditControl/MyMemoEdit.vb))
+<!-- default file list end -->
 # How to create a custom control with built-in spell checking capabilities
 
 
